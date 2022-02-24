@@ -1,0 +1,39 @@
+p#pogrubienie_nowak
+{
+font-size: 30px;
+color: #965AD0;
+}
+
+p#pochylona_nowak
+{
+font-size: 35pt;
+color: #FABE6C;
+}
+
+p#index_gorny_nowak
+{
+font-size: 1cm;
+color: #AA8C1C;
+}
+
+p#index_dolny_nowak
+{
+font-size: 1,5cm;
+color: rgb(176%,78%,94%);
+}
+
+p#mono_nowak
+{
+font-size: 40px;
+color: #2ADC6;
+}
+
+p#powiekszenie_nowak
+{
+color: #643C9E;
+}
+
+p#pomniejszenie_nowak
+{
+color: rgb(44%,71%,78%);
+}
