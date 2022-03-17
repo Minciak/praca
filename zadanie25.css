@@ -1,0 +1,86 @@
+ p#nr1 {
+	text-align: center;
+	color: #FF0000;
+	font-size: 1cm;
+}
+p#nr2 {
+		color: #0000FF;
+		text-align: center;
+}
+
+p#nr3 {
+		text-align: right;
+		color: #FF0000;
+		font-size: 1cm;
+}
+p#nr4 {
+		color: #0000ff;
+		text-align: right;
+}
+#zda1{
+    font-family: serif;
+    color: #FA8072;
+    font-style: italic; 
+    font-variant: small-caps;
+    font-weight: 500;
+    font-size:small;
+    text-indent:28mm;
+    word-spacing:10px;
+    letter-spacing:18mm;
+	text-decoration: overline;
+}
+#zda2{
+     word-spacing:10px;
+    letter-spacing:18mm;
+	color: #FF00000;
+	font-weight: 600;
+    font-size: medium;
+    font-family: serif;
+    text-indent:28mm;
+}
+#zda3{
+    text-indent:28mm;
+    word-spacing:10px;
+    letter-spacing:18mm;
+	font-weight: 700;
+    font-size: xx-large;
+    text-transform:lowercase;
+    font-family: serif;
+    color: #DC143C;
+}
+#zda4{
+    font-family: sans-serif;
+    color:#FF7F50 ;
+    text-transform: capitalize;
+    line-height:20mm;
+    word-spacing:10pt;
+    letter-spacing:0.25cm;
+	font-variant: small-caps;
+    font-weight:300;
+    font-size:7px;
+	text-indent:3cm;
+}
+#zda5{
+    color:#FF8C00;
+    text-transform: capitalize;
+    line-height:20mm;
+    word-spacing:10pt;
+    letter-spacing:0.25cm;
+	font-style: oblique;
+    font-weight:600;
+    font-size:4in;
+    font-family: sans-serif;
+	text-indent:3cm;
+}
+#zda6{
+	text-transform: capitalize;
+    line-height:20mm;
+    word-spacing:10pt;
+    letter-spacing:0.25cm;
+	text-decoration: line-through;
+    font-weight: 800;
+    font-size:8em;
+    font-family: sans-serif;
+    color:#FF6347;
+	text-indent:3cm;
+}
